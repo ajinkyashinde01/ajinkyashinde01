@@ -8,13 +8,12 @@
 🌱 Currently learning JavaScript & DevOps
 🎯 Goal: Become a Full Stack Developer
 
----
 
 🛠 Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,git,github,vscode" />
-</p>---
+</p>
 
 📂 My Projects
 
@@ -23,7 +22,6 @@
 - 🔹 Mini Web Projects
 - 🔹 Hospital Management System
 
----
 
 📫 Connect With Me
 
