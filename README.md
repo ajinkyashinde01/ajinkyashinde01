@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Shinde</h1>
-<h3 align="center">Coding the Future 🚀</h3>---
+<h3 align="center">Coding the Future 🚀</h3>
 
 🙋 About Me
 
