@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ajinkya Shinde</h1>
+<h3 align="center">Coding the Future 🚀</h3>---
 
-<!--
-**ajinkyashinde01/ajinkyashinde01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋 About Me
 
-Here are some ideas to get you started:
+💻 Diploma in Information Technology Student
+🚀 Passionate about coding and building projects
+🌱 Currently learning JavaScript & DevOps
+🎯 Goal: Become a Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,git,github,vscode" />
+</p>---
+
+📂 My Projects
+
+- 🔹 Portfolio Website
+- 🔹 To-Do App
+- 🔹 Library Management System
+- 🔹 Mini Web Projects
+
+---
+
+📊 GitHub Stats
+
+"Ajinkya's GitHub stats" (https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01&layout=compact&theme=tokyonight)
+
+---
+
+🔥 GitHub Streak
+
+"GitHub Streak" (https://streak-stats.demolab.com/?user=ajinkyashinde01&theme=tokyonight)
+
+---
+
+📫 Connect With Me
+
+📧 your-email@example.com
+
+⭐ Code. Learn. Build. Repeat.
