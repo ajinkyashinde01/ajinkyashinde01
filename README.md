@@ -18,24 +18,22 @@
 
 📂 My Projects
 
-- 🔹 Portfolio Website
 - 🔹 To-Do App
 - 🔹 Library Management System
 - 🔹 Mini Web Projects
+- 🔹 Hospital Management System
 
 ---
 
 📊 GitHub Stats
 
-"Ajinkya's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight)
+![Ajinkya's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight)
 
 "Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01&layout=compact&theme=tokyonight)
 
----
-
 🔥 GitHub Streak
 
-"GitHub Streak" (https://streak-stats.demolab.com/?user=ajinkyashinde01&theme=tokyonight)
+![GitHub Streak] (https://streak-stats.demolab.com/?user=ajinkyashinde01&theme=tokyonight)
 
 ---
 
