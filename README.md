@@ -25,18 +25,6 @@
 
 ---
 
-📊 GitHub Stats
-
-![Ajinkya's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01&layout=compact&theme=tokyonight)
-
-🔥 GitHub Streak
-
-![GitHub Streak] (https://streak-stats.demolab.com/?user=ajinkyashinde01&theme=tokyonight)
-
----
-
 📫 Connect With Me
 
 📧ajinkyashinde1009008@gmail.com
