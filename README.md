@@ -27,7 +27,7 @@
 
 📊 GitHub Stats
 
-"Ajinkya's GitHub stats" (https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight)
+"Ajinkya's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight)
 
 "Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01&layout=compact&theme=tokyonight)
 
@@ -41,6 +41,6 @@
 
 📫 Connect With Me
 
-📧 your-email@example.com
+📧ajinkyashinde1009008@gmail.com
 
 ⭐ Code. Learn. Build. Repeat.
