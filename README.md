@@ -1,11 +1,13 @@
 <h1 align="center">Ajinkya Shinde</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Projects+Everyday" />
+</p>
 
 ## About Me
 
 I am a Diploma in Information Technology student passionate about coding and building projects.
 Currently learning JavaScript and exploring DevOps.
-Focused on improving problem-solving skills and creating real-world applications.
+Focused on improving problem-solving skills.
 
 ## Tech Stack
 
