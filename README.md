@@ -1,39 +1,70 @@
-<h1 align="center">Ajinkya Shinde</h1>
+<h1 align="center">Hi 👋, I'm Ajinkya Shinde</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Projects+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;IT+Diploma+Student;Building+Projects+Everyday" />
 </p>
+
+---
 
 ## About Me
 
-I am a Diploma in Information Technology student passionate about coding and building projects.
-Currently learning JavaScript and exploring DevOps.
-Focused on improving problem-solving skills.
+* Diploma in Information Technology Student
+* Passionate about coding and software development
+* Currently learning JavaScript and exploring DevOps
+* Focused on building projects and improving problem-solving skills
+
+---
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,javascript,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,javascript,html,css,git,github,vscode" />
 </p>
+
+---
+
+## Current Focus
+
+* Web Development
+* Problem Solving
+* Git & GitHub
+* DevOps Basics
+
+---
 
 ## Projects
 
 * To-Do App
-* Library Management System
 * Hospital Management System
+* Library Management System
 * Mini Web Projects
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinkyashinde01\&show_icons=true\&theme=tokyonight)
+## GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ajinkyashinde01\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ajinkyashinde01&theme=tokyonight" />
+</p>
 
-## Contact
+---
 
-Email: ajinkyashinde@1909008@gmail.com
+## Connect
 
-Code. Learn. Build. Repeat.
+Email: [your-email@example.com](mailto:your-email@example.com)
+
+<p align="center">
+  Code • Learn • Build • Repeat
+</p>
