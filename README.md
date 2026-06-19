@@ -63,7 +63,7 @@
 
 ## Connect
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: ajinkyashinde1909008@gmail.com
 
 <p align="center">
   Code • Learn • Build • Repeat
