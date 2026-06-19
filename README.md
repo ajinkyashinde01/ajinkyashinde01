@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;IT+Diploma+Student;Building+Skills+and+Projects" />
 </p>
 
----
-
 
 ## About Me
 
