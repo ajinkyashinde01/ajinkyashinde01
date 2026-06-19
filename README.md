@@ -61,7 +61,3 @@ Email: ajinkyashinde1909008@gmail.com
 <p align="center">
   Code • Learn • Build • Repeat
 </p>
-
-## Pacman Contribution Game
-
-![Pacman Animation](https://github.com/ajinkyashinde01/ajinkyashinde01/blob/output/pacman-contribution-graph-dark.svg)
