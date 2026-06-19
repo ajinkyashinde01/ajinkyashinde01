@@ -1,15 +1,11 @@
-<h1 align="center">AJINKYA SHINDE</h1>
-
----
+<h1 align="center">Ajinkya Shinde</h1>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 ## About Me
 
 I am a Diploma in Information Technology student passionate about coding and building projects.
 Currently learning JavaScript and exploring DevOps.
 Focused on improving problem-solving skills and creating real-world applications.
-Aspiring to become a Full Stack Developer.
-
----
 
 ## Tech Stack
 
@@ -17,16 +13,12 @@ Aspiring to become a Full Stack Developer.
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,javascript,html,css" />
 </p>
 
----
-
 ## Projects
 
-* Portfolio Website
 * To-Do App
 * Library Management System
+* Hospital Management System
 * Mini Web Projects
-
----
 
 ## GitHub Stats
 
@@ -34,16 +26,12 @@ Aspiring to become a Full Stack Developer.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01\&layout=compact\&theme=tokyonight)
 
----
-
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ajinkyashinde01\&theme=tokyonight)
 
----
-
 ## Contact
 
-[your-email@example.com](mailto:your-email@example.com)
+Email: ajinkyashinde@1909008@gmail.com
 
 Code. Learn. Build. Repeat.
