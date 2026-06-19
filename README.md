@@ -1,4 +1,4 @@
-<h1 align="center">Ajinkya Shinde</h1>
+<h1 align="center">AJINKYA SHINDE</h1>
 
 ---
 
