@@ -61,3 +61,26 @@ Email: ajinkyashinde1909008@gmail.com
 <p align="center">
   Code • Learn • Build • Repeat
 </p>
+
+
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=ajinkyashinde01&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+## GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ajinkyashinde01&theme=tokyonight)
+
+
+## Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ajinkyashinde01&theme=tokyo-night)
+
+
+## Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
