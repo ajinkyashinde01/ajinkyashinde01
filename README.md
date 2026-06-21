@@ -71,14 +71,14 @@ Email: ajinkyashinde1909008@gmail.com
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub;IT+Student;Java+Developer)](https://git.io/typing-svg)
 
 
-<h2 align="center">🐍 Contribution Activity</h2>
+<h2 align="center">🎮 Pac-Man Eating My Contributions 👾</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajinkyashinde01/ajinkyashinde01/output/pacman.svg" alt="Pacman Animation">
+  <img src="https://raw.githubusercontent.com/ajinkyashinde01/ajinkyashinde01/output/pacman.svg" alt="Pacman Contribution Graph">
 </p>
 
 <p align="center">
-  <b>Tracking my coding journey one contribution at a time 🚀</b>
+  <i>Watch Pac-Man chase through my GitHub contributions!</i>
 </p>
 
 ## Dev Quote
