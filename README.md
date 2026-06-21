@@ -68,6 +68,9 @@ Email: ajinkyashinde1909008@gmail.com
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ajinkyashinde01&theme=tokyo-night)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub;IT+Student;Java+Developer)](https://git.io/typing-svg)
+
+
 ## Contribution Graph
 
 ![Pacman](https://raw.githubusercontent.com/ajinkyashinde01/ajinkyashinde01/output/pacman.svg)
