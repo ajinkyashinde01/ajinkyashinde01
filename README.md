@@ -67,10 +67,6 @@ Email: ajinkyashinde1909008@gmail.com
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ajinkyashinde01&theme=tokyo-night)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub;IT+Student;Java+Developer)](https://git.io/typing-svg)
-
-
 <h2 align="center">🎮 Pac-Man Eating My Contributions 👾</h2>
 
 <p align="center">
@@ -80,6 +76,12 @@ Email: ajinkyashinde1909008@gmail.com
 <p align="center">
   <i>Watch Pac-Man chase through my GitHub contributions!</i>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ajinkyashinde01)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub;IT+Student;Java+Developer)](https://git.io/typing-svg)
 
 ## Dev Quote
 
