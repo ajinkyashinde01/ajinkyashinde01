@@ -54,15 +54,6 @@
 </p>
 
 
-## Connect
-
-Email: ajinkyashinde1909008@gmail.com
-
-<p align="center">
-  Code • Learn • Build • Repeat
-</p>
-
-
 ## Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ajinkyashinde01&theme=tokyo-night)
@@ -82,6 +73,15 @@ Email: ajinkyashinde1909008@gmail.com
 ## Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+## Connect
+
+Email: ajinkyashinde1909008@gmail.com
+
+<p align="center">
+  Code • Learn • Build • Repeat
+</p>
 
 
 
