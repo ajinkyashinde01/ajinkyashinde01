@@ -38,12 +38,20 @@
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01&layout=compact&theme=tokyonight" />
+</p>
 
 
 ## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ajinkyashinde01)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ajinkyashinde01&theme=tokyonight" />
+</p>
 
 
 ## Connect
