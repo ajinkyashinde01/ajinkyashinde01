@@ -39,11 +39,11 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01&layout=compact&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01&layout=compact&theme=tokyonight)
+
 </p>
 
 
