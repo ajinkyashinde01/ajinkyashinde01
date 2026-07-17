@@ -39,7 +39,7 @@
 ## GitHub Streak
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyashinde01&theme=github-dark-blue&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyashinde01&theme=radical&hide_border=true" />
 </p>
 
 
