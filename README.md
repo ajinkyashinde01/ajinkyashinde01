@@ -36,21 +36,10 @@
 * Mini Web Projects
 
 
-## GitHub Analytics
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinkyashinde01&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyashinde01&layout=compact&theme=tokyonight)
-
-</p>
-
-
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajinkyashinde01&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyashinde01&theme=github-dark-blue&hide_border=true" />
 </p>
 
 
