@@ -70,6 +70,8 @@
 ## Connect
 
 Email: ajinkyashinde1909008@gmail.com
+OR
+ajinkyashinde38641@gmail.com
 
 <p align="center">
   Code • Learn • Build • Repeat
