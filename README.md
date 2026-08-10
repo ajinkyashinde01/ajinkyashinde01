@@ -45,11 +45,8 @@
 
 ## Contribution Graph
 
-<div align="center">
+![](https://github-readme-activity-graph.vercel.app/graph?username=ajinkyashinde01&theme=tokyo-night)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajinkyashinde01&theme=tokyo-night&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=ffffff" width="100%"/>
-
-<br/>
 
 <h2 align="center">🎮 Pac-Man Eating My Contributions 👾</h2>
 
